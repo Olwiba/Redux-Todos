@@ -1,0 +1,12 @@
+main {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background: black;
+}
+
+#number {
+	font-size: 22px;
+}
